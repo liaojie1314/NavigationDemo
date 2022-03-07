@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationDemo</string>
+    <string name="text_index">首页</string>
+    <string name="redpocket_text">特惠</string>
+    <string name="on_sell_text">精选</string>
+    <string name="search_text">搜索</string>
+</resources>

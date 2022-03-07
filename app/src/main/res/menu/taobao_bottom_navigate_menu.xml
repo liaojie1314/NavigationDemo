@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/taobao_index"
+        android:icon="@drawable/home"
+        android:title="@string/text_index" />
+    <item
+        android:id="@+id/taobao_redpocket"
+        android:icon="@drawable/redpocket"
+        android:title="@string/redpocket_text" />
+    <item
+        android:id="@+id/taobao_onsell"
+        android:icon="@drawable/select"
+        android:title="@string/on_sell_text" />
+    <item
+        android:id="@+id/taobao_search"
+        android:icon="@drawable/search"
+        android:title="@string/search_text" />
+</menu>
